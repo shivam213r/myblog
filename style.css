@@ -1,0 +1,27 @@
+hr{
+ border-style: dashed none none;
+width: 40%;
+height: 10px;
+padding-bottom: 0px;
+}
+main{
+  padding: 7%;
+  padding-top: 3px;
+  padding-bottom: 5px;
+}
+body{
+  background-color: #F6E3C5;
+}
+h1{
+  font-family: monaco, monospace;
+}
+h3{
+  font-family: Lucida Console, monospace;
+}
+p{
+  font-family: Verdana;
+}
+table{
+  padding-right: 33.5%;
+
+}
